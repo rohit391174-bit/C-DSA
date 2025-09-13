@@ -1,2 +1,2 @@
-# C++DSA
+# DSA
 C++ DSA Repository
